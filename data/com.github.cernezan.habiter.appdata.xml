@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Zan Cerne -->
+<component type="desktop">
+  <id>com.github.cernezan.habiter</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Habiter</name>
+  <summary>Track Your Habits</summary>
+  <description>
+    <p>Habiter will help you stick to your habits by tracking them.</p>
+  </description>
+ <!-- NOT SET - EDIT THIS LATER -->
+  <custom>
+    <value key="x-appcenter-color-primary">#603461</value>
+    <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+    <value key="x-appcenter-suggested-price">5</value>
+  </custom>
+</component>
