@@ -1,0 +1,47 @@
+# German translations for com.github.cernezan.habiter package.
+# Copyright (C) 2020 THE com.github.cernezan.habiter'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.cernezan.habiter package.
+# Automatically generated, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.cernezan.habiter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-05 15:20+0100\n"
+"PO-Revision-Date: 2020-02-05 15:20+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: data/com.github.cernezan.habiter.desktop.in:3
+#: data/com.github.cernezan.habiter.appdata.xml.in:6
+msgid "Habiter"
+msgstr ""
+
+#: data/com.github.cernezan.habiter.desktop.in:4
+msgid "Habit Tracker"
+msgstr ""
+
+#: data/com.github.cernezan.habiter.desktop.in:5
+msgid "Track your habits on elementary os"
+msgstr ""
+
+#: data/com.github.cernezan.habiter.desktop.in:8
+msgid "application-default-icon"
+msgstr ""
+
+#: data/com.github.cernezan.habiter.desktop.in:11
+msgid "Habiter;Habit;Track;"
+msgstr ""
+
+#: data/com.github.cernezan.habiter.appdata.xml.in:7
+msgid "Track Your Habits"
+msgstr ""
+
+#: data/com.github.cernezan.habiter.appdata.xml.in:9
+msgid "Habiter will help you stick to your habits by tracking them."
+msgstr ""
