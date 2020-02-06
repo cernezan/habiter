@@ -1,0 +1,16 @@
+Source: com.github.cernezan.habiter
+Section: x11
+Priority: extra
+Maintainer: Cerne Zan <cernezan@gmail.com>
+Build-Depends: debhelper (>= 10.5.1),
+               gettext,
+               libgtk-3-dev (>= 3.10),
+               meson,
+               valac (>= 0.28.0)
+Standards-Version: 4.1.1
+
+Package: com.github.cernezan.habiter
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Habiter is a elementary os application to help you maintain habits.
+
